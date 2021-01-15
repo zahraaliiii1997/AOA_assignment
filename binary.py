@@ -1,4 +1,4 @@
-# "Angled brackets not allowed in youtube description."
+
 def binary_search(sequence, item):
     begin_index = 0
     end_index = len(sequence) - 1

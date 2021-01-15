@@ -6,7 +6,6 @@ def insertion_sort(list_a):
         while list_a[i-1] > value_to_sort and i>0:
             list_a[i], list_a[i-1] = list_a[i-1], list_a[i]
             i = i -1
-#Sorry - Youtube doesn't allow angled brackets in the description :(
 
     return list_a
 

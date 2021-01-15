@@ -5,7 +5,7 @@ def selection_sort(list_a):
         min_value = i
 
         for j in range(i+1, len(list_a)):
-            if list_a[j] < list_a[min_value]: #"angled brackets not allowed in youtube description"
+            if list_a[j] < list_a[min_value]:
                 min_value = j
 
 
